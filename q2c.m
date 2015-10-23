@@ -1,5 +1,5 @@
 % Function : q2c.m
-%
+%%%
 
 ret_code = checking('q2a');
 
