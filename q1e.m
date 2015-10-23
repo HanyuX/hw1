@@ -5,7 +5,7 @@ function q1e()
 % q1_drawrectangles
 % q1_normalized_correlation
 % q1_detectfaces
-% q1_detectfacesHSV
+% q1_detectfacesHSV_
 
 c = checking('q1a');
 c = c + checking('q1b');
